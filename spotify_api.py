@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+from IPython import get_ipython
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 import os
@@ -17,9 +17,9 @@ import seaborn as sns
 
 
 # use your credentials
-os.environ["SPOTIPY_CLIENT_ID"] = ''
-os.environ["SPOTIPY_CLIENT_SECRET"] = ''
-os.environ["SPOTIPY_REDIRECT_URI"] = ''
+os.environ["SPOTIPY_CLIENT_ID"] = '85d590f4c0434024a55c5f337fa6da02'
+os.environ["SPOTIPY_CLIENT_SECRET"] = '00a5095730f9436b9e3d692e3432739a'
+os.environ["SPOTIPY_REDIRECT_URI"] = 'http://localhost:8888/callback'
 
 scope = 'user-library-read'
 username = ''
