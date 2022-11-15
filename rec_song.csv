@@ -1,12 +1,12 @@
 ,name,artists,acousticness,liveness,instrumentalness,energy,danceability,valence
-135,I Got It Bad And That Ain't Good,OscarPetersonTrio,0.971,0.0882,0.911,0.0527,0.488,0.193
-368,All Shook Up,ElvisPresley,0.881,0.144,6.35e-06,0.468,0.624,0.952
-234,Runaway,DelShannon,0.153,0.172,1.49e-05,0.533,0.594,0.729
-105,Are You Lonesome Tonight,ElvisPresley,0.918,0.106,0.000702,0.0922,0.355,0.191
-458,Autumn In New York,BillieHoliday,0.958,0.114,7e-06,0.098,0.587,0.288
-235,Route 66,ChuckBerry,0.902,0.104,0.000474,0.692,0.686,0.962
-239,La chanson de Prévert,SergeGainsbourg,0.874,0.122,8.97e-05,0.194,0.533,0.547
-196,Jambalaya (On The Bayou),FatsDomino,0.804,0.262,0.000116,0.746,0.623,0.965
-376,"Générique - BOF ""Ascenseur pour l'échafaud""",MilesDavis,0.974,0.183,0.949,0.114,0.391,0.139
-471,Chances Are - Single Version,JohnnyMathis,0.897,0.107,3.25e-06,0.254,0.31,0.296
-7,dead yet (with phem),gabriel black,0.071,0.0866,0.0,0.56,0.54,0.491
+108,"Générique - BOF ""Ascenseur pour l'échafaud""",MilesDavis,0.974,0.183,0.949,0.114,0.391,0.139
+93,I Loves You Porgy - 2013 Remastered Version,NinaSimone,0.956,0.109,2.21e-06,0.0494,0.477,0.195
+12,Fever,ElvisPresley,0.742,0.112,0.0644,0.0939,0.711,0.392
+68,La Bamba - Single Version,RitchieValens,0.787,0.303,0.000331,0.809,0.516,0.939
+119,Tammy,RogerWilliams,0.972,0.104,0.851,0.0491,0.386,0.104
+133,I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition,JohnColtrane,0.931,0.0662,0.497,0.23,0.394,0.358
+113,Crazy He Calls Me,BillieHoliday,0.849,0.214,3.5e-06,0.145,0.483,0.284
+100,All Shook Up,ElvisPresley,0.881,0.144,6.35e-06,0.468,0.624,0.952
+111,April In Paris,BillieHoliday,0.927,0.132,7.07e-05,0.127,0.496,0.211
+48,Little Bitty Pretty One,ThurstonHarris,0.777,0.0562,2.06e-06,0.883,0.706,0.887
+30,Happier,Marshmello,0.191,0.167,0.0,0.792,0.687,0.671

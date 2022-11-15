@@ -92,7 +92,7 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 st.title('Spotify User Dashboard')
 
-col1, col2 = st.beta_columns(2)
+col1, col2 =  st.columns(2)
 #
 col1.header("Your Latest added Song")
 top_5_songs = df[['name', 'artists']].head(5)
@@ -107,7 +107,7 @@ fig.update_traces(textposition='inside', textinfo='label')
 col2.plotly_chart(fig, use_container_width=True)
 ####
 
-col3, col4, col5 = st.beta_columns(3)
+col3, col4, col5 =  st.columns(3)
 #
 
 
@@ -133,7 +133,7 @@ col5.markdown(f'<p class="big-font">{df.count()[1]} songs</p>', unsafe_allow_htm
 #
 ####
 
-col6,col7 = st.beta_columns(2)
+col6,col7 =  st.columns(2)
 col6.header("Your Recommended Songs")
 
 
